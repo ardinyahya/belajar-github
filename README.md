@@ -1,2 +1,2 @@
 # belajar-github
-belajar tentang github
+belajar tentang github di mata kuliah kakas
